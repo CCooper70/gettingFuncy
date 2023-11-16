@@ -24,7 +24,7 @@ function square(){
 }
 
 function beNice(){
- greeting = "hello" + firstName
+ greeting = greeting +  " " + firstName
 }
 
 function changeName(){
